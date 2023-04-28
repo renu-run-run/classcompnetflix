@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/classcompnetflix/static/css/main.47abd177.css",
+    "main.js": "/classcompnetflix/static/js/main.463c350a.js",
+    "static/js/787.4c3f4e73.chunk.js": "/classcompnetflix/static/js/787.4c3f4e73.chunk.js",
+    "index.html": "/classcompnetflix/index.html",
+    "main.47abd177.css.map": "/classcompnetflix/static/css/main.47abd177.css.map",
+    "main.463c350a.js.map": "/classcompnetflix/static/js/main.463c350a.js.map",
+    "787.4c3f4e73.chunk.js.map": "/classcompnetflix/static/js/787.4c3f4e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47abd177.css",
+    "static/js/main.463c350a.js"
+  ]
+}
